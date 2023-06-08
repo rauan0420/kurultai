@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824040169201",
+    "project_id": "kurultai-32103",
+    "storage_bucket": "kurultai-32103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824040169201:android:a3ca92ba712b807fb6d350",
+        "android_client_info": {
+          "package_name": "com.example.cross"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824040169201-29kt68grsgdp7d2n2f4v3tu1tj8mhmd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nI-cnMOmE4W0HMW_ohEtAQboRKBJS2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824040169201-29kt68grsgdp7d2n2f4v3tu1tj8mhmd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kurultai</string>
+    <string name="facebook_app_id">641297310705089</string>
+    <string name="fb_login_protocol_scheme">fb641297310705089</string>
+    <string name="facebook_client_token">f4fef39b61ebeda7a135ad9dcdb0024a</string>
+</resources>
